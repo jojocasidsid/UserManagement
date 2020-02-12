@@ -1,0 +1,96 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.text-center {
+    text-align: center;
+}
+
+.g-recaptcha {
+    display: inline-block;
+}
+
+
+
+  img{
+    max-width:100%
+  }
+
+
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .header {
+    padding: 0;
+    background: #ffffff;
+
+  }
+  .button-email{
+    margin:10px 0
+  }
+
+  
+  .list-group {
+      list-style: disc inside;
+  
+  }
+  
+  .list-group-item {
+      display: list-item;
+  }
+  
+   .find-more{
+     text-align: right;
+   }
+  
+  
+  .label-theme{
+    background: #3AAA64;
+    font-size: 14px;
+    padding: .3em .7em .3em;
+    color: #fff;
+    border-radius: .25em;
+  }
+  
+  .label a{
+    color: inherit;
+  }
+  
+
+body{
+    background: #EFF7FE;
+ 
+  font-family: "Roboto", sans-serif
+}
+
+#sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 70px;
+
+} 
+
+.img-fit{
+  object-fit: cover;
+}
+
+.avatar {
+  border: 0.3rem solid rgba(#fff, 0.3);
+  margin-top: -6rem;
+  margin-bottom: 1rem;
+  max-width: 9rem;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
+
+.card-header{
+  color: white;
+  background-color: rgb(28, 128, 168);;
+}
+
+
+
+
